@@ -1,4 +1,5 @@
 # How to use
+1. clone to secondary/external drive (anything but C:\)
 1. Copy remoteHeader.h to C:\tmp\remoteHeader.h
 2. Launch compile
 ```batch
